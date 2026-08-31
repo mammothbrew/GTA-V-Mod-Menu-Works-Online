@@ -102,3 +102,4 @@ Yes — full premium version with no trial limitations or hidden fees.
 *This repository is for educational and informational purposes only. The authors are not responsible for any misuse.*
 
 ![Stars](https://img.shields.io/github/stars/gta-5-mod-menu-2026?style=social)
+                                                                                                    
